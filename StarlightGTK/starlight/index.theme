@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Starlight
+Comment=A Pure Black & Purple OLED Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Starlight
+ButtonLayout=close,minimize,maximize:menu

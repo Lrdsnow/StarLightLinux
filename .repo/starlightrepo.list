@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/starlightrepo.gpg] https://raw.githubusercontent.com/Lrdsnow/StarLightLinux/main/Repo ./
