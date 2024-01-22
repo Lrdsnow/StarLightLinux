@@ -1,5 +1,5 @@
 <p align="right">
-  <img align="right" height="140" src="https://github.com/Lrdsnow/StarLightLinux/blob/main/icon.png?raw=true" alt="PureKFD Logo" style="float: right; border-radius: 10px;"/>
+  <img align="right" height="140" src="https://github.com/Lrdsnow/StarLightLinux/blob/main/%20icon.png?raw=true" alt="PureKFD Logo" style="float: right; border-radius: 10px;"/>
 </p>
 
 <h1 align="left">Starlight Linux</h1>
