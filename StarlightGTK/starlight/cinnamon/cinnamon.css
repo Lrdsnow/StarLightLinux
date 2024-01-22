@@ -563,7 +563,7 @@ StScrollBar StButton#hhandle:active {
   color: rgba(206, 125, 250, 0.7);
   font-size: 1em;
   padding: 0px;
-  background-color: rgba(0, 0, 0, 0.95);
+  background-color: rgba(0, 0, 0, 0.2);
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5), 0 0 16px rgba(0, 0, 0, 0.24);
 }
 

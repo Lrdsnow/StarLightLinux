@@ -2,12 +2,12 @@ Package: StarlightGTK
 Version: 1.0-1
 Architecture: all
 Maintainer: lrdsnow
-Installed-Size: 1964
+Installed-Size: 7532
 Filename: ./starlightgtk_1.0-1.deb
-Size: 53142
-MD5sum: 817a16f0909ae2ed0033cf8547b43f5c
-SHA1: 044c6199876464d2fe3c9e75a7367970678aea84
-SHA256: ad22b22b2af12db92b1c4f97eaedb045a19f78e7f6cfd34833d797baddcbfabc
+Size: 1955674
+MD5sum: e32a4d2cfd56743149b33a67d8013cad
+SHA1: 3cfa9e56551bee76720d8bba08a17fb41503cdac
+SHA256: 4405aba8ab2a58de0ce8d00736a481ce7592d02b3fa570a8bb390498c43055c6
 Section: base
 Priority: optional
 Description: Starlight GTK Theme

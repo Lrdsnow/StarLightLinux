@@ -1,5 +1,5 @@
 <p align="right">
-  <img align="right" height="140" src="https://github.com/Lrdsnow/StarLightLinux/blob/main/%20icon.png?raw=true" alt="PureKFD Logo" style="float: right; border-radius: 10px;"/>
+  <img align="right" height="140" src="https://github.com/Lrdsnow/StarLightLinux/blob/main/img/icon.png?raw=true" alt="PureKFD Logo" style="float: right; border-radius: 10px;"/>
 </p>
 
 <h1 align="left">Starlight Linux</h1>
@@ -25,3 +25,6 @@ All you gotta do is run [this shell script](https://github.com/Lrdsnow/StarLight
 - [**Lrdsnow**](https://github.com/Lrdsnow) - Main Developer
 - [**@korpsvart**](https://github.com/Fausto-Korpsvart) - StarlightGTK is a fork of [Material-GTK-Themes](https://github.com/Fausto-Korpsvart/Material-GTK-Themes)
 
+## Screenshots
+
+![screenshot0](https://github.com/Lrdsnow/StarLightLinux/blob/main/img/screenshot0.png?raw=true)
